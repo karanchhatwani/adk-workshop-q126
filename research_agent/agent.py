@@ -35,5 +35,5 @@ root_agent = Agent(  # Replace this with your Agent definition
 
     Remember: In this version you do not have access to any tools and all information must come from your training knowledge.
     """
-    description="Simple Research Agent"
+    description="Simple Research agent"
 )
